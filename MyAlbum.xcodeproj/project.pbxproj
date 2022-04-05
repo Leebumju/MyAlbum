@@ -13,6 +13,8 @@
 		D86E94B327E8377C009B4C05 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D86E94B127E8377C009B4C05 /* Main.storyboard */; };
 		D86E94B527E8377D009B4C05 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D86E94B427E8377D009B4C05 /* Assets.xcassets */; };
 		D86E94B827E8377D009B4C05 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D86E94B627E8377D009B4C05 /* LaunchScreen.storyboard */; };
+		D8ACF35127FCB13D00D6A663 /* ImageZoomViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8ACF35027FCB13D00D6A663 /* ImageZoomViewController.swift */; };
+		D8ACF35327FCBA4F00D6A663 /* CollectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8ACF35227FCBA4F00D6A663 /* CollectionViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		D86E94B427E8377D009B4C05 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D86E94B727E8377D009B4C05 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D86E94B927E8377D009B4C05 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D8ACF35027FCB13D00D6A663 /* ImageZoomViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageZoomViewController.swift; sourceTree = "<group>"; };
+		D8ACF35227FCBA4F00D6A663 /* CollectionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +67,8 @@
 				D86E94B427E8377D009B4C05 /* Assets.xcassets */,
 				D86E94B627E8377D009B4C05 /* LaunchScreen.storyboard */,
 				D86E94B927E8377D009B4C05 /* Info.plist */,
+				D8ACF35027FCB13D00D6A663 /* ImageZoomViewController.swift */,
+				D8ACF35227FCBA4F00D6A663 /* CollectionViewController.swift */,
 			);
 			path = MyAlbum;
 			sourceTree = "<group>";
@@ -141,6 +147,8 @@
 				D86E94B027E8377C009B4C05 /* ViewController.swift in Sources */,
 				D86E94AC27E8377C009B4C05 /* AppDelegate.swift in Sources */,
 				D86E94AE27E8377C009B4C05 /* SceneDelegate.swift in Sources */,
+				D8ACF35127FCB13D00D6A663 /* ImageZoomViewController.swift in Sources */,
+				D8ACF35327FCBA4F00D6A663 /* CollectionViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
